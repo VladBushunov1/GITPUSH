@@ -56,5 +56,9 @@ git branch <branch_name>
 git push -u origin "branch_name"
 git pull
 ```
+Связка локального репозитория с репозиторием на гитхаб:
+```sh
+git remote add <Link>
+```
 
 
