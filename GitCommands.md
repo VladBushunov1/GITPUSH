@@ -51,4 +51,10 @@ git branch
 ```sh
 git branch <branch_name>
 ```
+Загрузка данных с репозитория на гитхаб и загрузка на него:
+```sh
+git push -u origin "branch_name"
+git pull
+```
+
 
